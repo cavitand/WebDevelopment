@@ -1,0 +1,2 @@
+Set Workstation at C:/user/username/eclipse-workstation
+File -> Import -> Git -> Project from Git -> Next -> Existing local respository -> project name -> Import as general project
